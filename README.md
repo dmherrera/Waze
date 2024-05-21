@@ -20,5 +20,8 @@ This project focuses on predicting monthly user churn for the Waze app. User chu
 ### Impact:
 By identifying high-risk users, Waze can proactively engage them with special offers or interventions to improve retention. This will help optimize Waze’s retention strategy, enhance user experience, and support data-driven product development decisions. An accurate churn prediction model will not only prevent churn but also contribute to overall business growth by maintaining high user satisfaction and retention rates.
 
-Join us in this effort to increase growth and ensure that Waze continues to provide a valuable and reliable service to its users.
+## Table of contents
 
+ - Notebook #4 **Statistics**
+ - Notebook #5 **Binomial Logistic Regression**
+ - Notebook #6 **Random Forest & XGBoost**
